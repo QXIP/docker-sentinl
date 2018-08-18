@@ -3,6 +3,6 @@
 ## SENTINL Docker (full stack)
 
 ```
-qxip/docker-sentinl
+qxip/docker-sentinl:master
 ```
 
